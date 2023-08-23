@@ -1,4 +1,4 @@
-[![MasterHead](https://appsembler.com/wp-content/uploads/2023/07/beemarrie_developer_marketing_computer_strategy_deda1786-e5df-4461-957a-01d758880ac0.png)
+![MasterHead](https://appsembler.com/wp-content/uploads/2023/07/beemarrie_developer_marketing_computer_strategy_deda1786-e5df-4461-957a-01d758880ac0.png)
 <h1 align="center">Hi 👋, I'm Ömer Akbayrak</h1>
 <h3 align="center">I am a young programmer</h3>
 
